@@ -1,13 +1,13 @@
-package top.godoom.storehouse;
+package top.godoom.storehousecontroller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StorehouseApplication {
+public class StorehouseControllerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(StorehouseApplication.class, args);
+        SpringApplication.run(StorehouseControllerApplication.class, args);
     }
 
 }
